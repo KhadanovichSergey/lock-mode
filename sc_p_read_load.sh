@@ -1,0 +1,1 @@
+curl "http://localhost:8080/accounts/1?lockMode=PESSIMISTIC_READ&load=10000"
